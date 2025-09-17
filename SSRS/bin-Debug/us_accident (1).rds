@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RptDataSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="us_accident">
+  <ConnectionProperties>
+    <Extension>SQL</Extension>
+    <ConnectString>Data Source=.;Initial Catalog=DWH_Accidents</ConnectString>
+  </ConnectionProperties>
+  <DataSourceID>a04632a1-aa0f-4237-90e8-9fdb721664d0</DataSourceID>
+</RptDataSource>
